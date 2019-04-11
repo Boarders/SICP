@@ -7,7 +7,7 @@
                   (op z (car lst))
                   (cdr lst)))))
 
-;;;;;;;;;;; Polynomials  and Newton's method;;;;;;;;;;
+;;;;;;;;;;; Polynomials and Newton's method;;;;;;;;;;
 
 ;; a polynomial is represented as an ordered list of pairs
 ;; where a pair `(a . n) corresponds to a term ax^n.
